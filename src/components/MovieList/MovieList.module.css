@@ -1,0 +1,34 @@
+/* src/components/MovieList/MovieList.module.css */
+
+.movieList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.movieList li {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.movieList li:hover {
+  transform: scale(1.05);
+}
+
+.movieList a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.movieList a:hover {
+  color: red;
+}

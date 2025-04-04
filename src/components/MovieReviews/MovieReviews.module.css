@@ -1,0 +1,34 @@
+/* src/components/MovieReviews/MovieReviews.module.css */
+
+.movieReviews {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.movieReviews ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.movieReviews li {
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0;
+}
+
+.movieReviews li:last-child {
+  border-bottom: none;
+}
+
+.movieReviews h4 {
+  margin: 0 0 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+.movieReviews p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}

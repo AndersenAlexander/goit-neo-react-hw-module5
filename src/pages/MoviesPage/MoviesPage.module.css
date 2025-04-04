@@ -1,0 +1,36 @@
+/* src/pages/MoviesPage/MoviesPage.module.css */
+
+.moviesPage {
+  padding: 20px;
+  background-color: transparent;
+}
+
+.searchForm {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.searchInput {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 250px;
+}
+
+.searchButton {
+  padding: 8px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.searchButton:hover {
+  background-color: red;
+}
