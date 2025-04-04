@@ -88,7 +88,9 @@ This is a React-based movie search application built with Vite. It interacts wit
 
    ```bash
    npm install
-or
+   
+    or
+   
    ```bash
    yarn install
    
