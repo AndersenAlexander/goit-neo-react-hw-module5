@@ -107,13 +107,15 @@ Create a .env file in the root directory and add the following line (replace api
    ```bash
    gnpm run dev
 
+
 Then open http://localhost:5173 in your browser.
 
+
 ## Deployment
-The application is ready to be deployed on Vercel or any other hosting platform that supports React. Remember to set up the environment variables on your deployment platform.
+  The application is ready to be deployed on Vercel or any other hosting platform that supports React. Remember to set up the environment variables on your deployment platform.
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or find issues, please open an issue or submit a pull request.
+  Contributions are welcome! If you have suggestions for improvements or find issues, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
