@@ -112,10 +112,13 @@ Then open http://localhost:5173 in your browser.
 
 
 ## Deployment
-  The application is ready to be deployed on Vercel or any other hosting platform that supports React. Remember to set up the environment variables on your deployment platform.
+
+- **Contributions are welcome! If you have suggestions for improvements or find issues, please open an issue or submit a pull request.
 
 ## Contributing
-  Contributions are welcome! If you have suggestions for improvements or find issues, please open an issue or submit a pull request.
+
+- **The application is ready to be deployed on Vercel or any other hosting platform that supports React. Remember to set up the environment variables on your deployment platform.
 
 ## License
-  This project is licensed under the MIT License.
+
+- **This project is licensed under the MIT License.
