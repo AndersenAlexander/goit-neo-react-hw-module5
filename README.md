@@ -29,44 +29,44 @@ This is a React-based movie search application built with Vite. It interacts wit
 
 ## Project Structure
 
-goit-neo-react-hw-module5/
-├── public/
-│   └── AlexanderAndersen.jpg         # Background image
-├── src/
-│   ├── components/                     # Reusable components
-│   │   ├── Navigation/
-│   │   │   ├── Navigation.jsx
-│   │   │   └── Navigation.module.css
-│   │   ├── MovieList/
-│   │   │   ├── MovieList.jsx
-│   │   │   └── MovieList.module.css
-│   │   ├── MovieCast/
-│   │   │   ├── MovieCast.jsx
-│   │   │   └── MovieCast.module.css
-│   │   └── MovieReviews/
-│   │       ├── MovieReviews.jsx
-│   │       └── MovieReviews.module.css
-│   ├── pages/                          # Route pages
-│   │   ├── HomePage/
-│   │   │   ├── HomePage.jsx
-│   │   │   └── HomePage.module.css
-│   │   ├── MoviesPage/
-│   │   │   ├── MoviesPage.jsx
-│   │   │   └── MoviesPage.module.css
-│   │   ├── MovieDetailsPage/
-│   │   │   ├── MovieDetailsPage.jsx
-│   │   │   └── MovieDetailsPage.module.css
-│   │   └── NotFoundPage/
-│   │       ├── NotFoundPage.jsx
-│   │       └── NotFoundPage.module.css
-│   ├── services/                       # Functions for interacting with the TMDB API
-│   │   └── tmdbAPI.js
-│   ├── App.jsx                         # Main routes configuration with lazy loading
-│   ├── main.jsx                        # Application entry point
-│   └── index.css                       # Global styles
-├── .env                                # Environment variables (make sure to add this to .gitignore)
-├── package.json
-└── README.md                           # This file
+    goit-neo-react-hw-module5/
+    ├── public/
+    │   └── AlexanderAndersen.jpg         # Background image
+    ├── src/
+    │   ├── components/                     # Reusable components
+    │   │   ├── Navigation/
+    │   │   │   ├── Navigation.jsx
+    │   │   │   └── Navigation.module.css
+    │   │   ├── MovieList/
+    │   │   │   ├── MovieList.jsx
+    │   │   │   └── MovieList.module.css
+    │   │   ├── MovieCast/
+    │   │   │   ├── MovieCast.jsx
+    │   │   │   └── MovieCast.module.css
+    │   │   └── MovieReviews/
+    │   │       ├── MovieReviews.jsx
+    │   │       └── MovieReviews.module.css
+    │   ├── pages/                          # Route pages
+    │   │   ├── HomePage/
+    │   │   │   ├── HomePage.jsx
+    │   │   │   └── HomePage.module.css
+    │   │   ├── MoviesPage/
+    │   │   │   ├── MoviesPage.jsx
+    │   │   │   └── MoviesPage.module.css
+    │   │   ├── MovieDetailsPage/
+    │   │   │   ├── MovieDetailsPage.jsx
+    │   │   │   └── MovieDetailsPage.module.css
+    │   │   └── NotFoundPage/
+    │   │       ├── NotFoundPage.jsx
+    │   │       └── NotFoundPage.module.css
+    │   ├── services/                       # Functions for interacting with the TMDB API
+    │   │   └── tmdbAPI.js
+    │   ├── App.jsx                         # Main routes configuration with lazy loading
+    │   ├── main.jsx                        # Application entry point
+    │   └── index.css                       # Global styles
+    ├── .env                                # Environment variables (make sure to add this to .gitignore)
+    ├── package.json
+    └── README.md                           # This file
 
 
 ## Getting Started
